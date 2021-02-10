@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+}
+
+input{
+  font-size:30px;
+  display:block;
+  margin-bottom: 2px;
+  background-color: #222;
+  color: #fff;
+  text-align: right;
+}
+
+.math {
+  display:inline-block;
+  height: 30px;
+  width: 76px;
+  margin-bottom: 2px;
+}
+
+.ac,.equel {
+    width: 157px;
+    height: 30px;
+} 
